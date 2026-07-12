@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola!
 
-<!--
-**Torkyaz/Torkyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Torkyaz, soy un estudiante de Física y me apasiona la física nuclear, la programación científica y la música.
 
-Here are some ideas to get you started:
+#
+### Temas de mi interés
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Física Computacional
+- Astronomía y Astrofísica
+- Reactores Nucleares
+- Energía Nuclear
+- Álgebra lineal
+
+#
+### Actualmente
+
+Enfocado en mis estudios.\
+Desarrollando proyectos propios.\
+Explorando nuevos temas.
+
+#
+### Contacto
+
+- Discord: torkyaz
+  
+---
+<img src="https://camo.githubusercontent.com/469c25bde53f6cf1d5f6b233dd6ca93060b13481164db94efc58a63fe01534b5/68747470733a2f2f6d656469612e74656e6f722e636f6d2f5872335a57496b6a326e34414141416a2f726f626c6f782d6361742e676966"></img>
